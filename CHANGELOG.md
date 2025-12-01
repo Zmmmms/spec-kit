@@ -7,6 +7,18 @@ All notable changes to the Specify CLI and templates are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Support for Coco Agent-CLI as additional AI assistant option
+- Added Coco support to release scripts and package generation
+- Updated agent context update scripts to handle Coco Agent-CLI
+
+### Changed
+
+- Updated version to 0.0.22-ms-dev with description for Bytedance users
+
 ## [0.0.22] - 2025-11-07
 
 - Support for VS Code/Copilot agents, and moving away from prompts to proper agents with hand-offs.
