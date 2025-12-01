@@ -1,6 +1,6 @@
 [project]
 name = "specify-cli"
-version = "0.0.22-ms-dev"
+version = "0.0.22+ms.dev"
 description = "Specify CLI, part of GitHub Spec Kit. A tool to bootstrap your projects for Spec-Driven Development (SDD). Add Coco supoort for Bytedance user"
 requires-python = ">=3.11"
 dependencies = [
